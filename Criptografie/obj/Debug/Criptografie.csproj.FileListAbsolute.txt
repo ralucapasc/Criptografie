@@ -1,0 +1,13 @@
+D:\Pasc Raluca\Criptografie\Criptografie\bin\Debug\Criptografie.exe.config
+D:\Pasc Raluca\Criptografie\Criptografie\bin\Debug\Criptografie.exe
+D:\Pasc Raluca\Criptografie\Criptografie\bin\Debug\Criptografie.pdb
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\Criptografie.csprojResolveAssemblyReference.cache
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\MainWindow.baml
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\MainWindow.g.cs
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\App.g.cs
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\Criptografie_MarkupCompile.cache
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\Criptografie.g.resources
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\Criptografie.Properties.Resources.resources
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\Criptografie.csproj.GenerateResource.Cache
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\Criptografie.exe
+D:\Pasc Raluca\Criptografie\Criptografie\obj\Debug\Criptografie.pdb
